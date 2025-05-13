@@ -1,8 +1,10 @@
+
+===============================================================================================
 Langkah-Langkah pre-processing:
-- (done) mengecek semua struktur dataset (hasilnya semua sama)
-- (done) menggabungkan semua dataser ((raw) dataset gabungan (2014-2024))
+- (sudah diatasi) mengecek semua struktur dataset (hasilnya semua sama)
+- (sudah diatasi) menggabungkan semua dataser ((raw) dataset gabungan (2014-2024))
 - validasi dataset:
-    - (done) pilih kolom yang mungkin berguna, pertimbangkan kolom baru:
+    - (sudah diatasi) pilih kolom yang mungkin berguna, pertimbangkan kolom baru:
         - NOPEN
         - JALUR
         - TAHUN
@@ -21,46 +23,116 @@ Langkah-Langkah pre-processing:
         - PEND. IBU
         - PEKERJAAN IBU
         - ALAMAT ORANG TUA
-        - TGL DITERIMA
-    - struktur data:
-        - USIA = float ganti int
-        - TGL DITERIMA = object ganti ke date/sejenisnya
-    - (done) data duplikat, liat dari semua kolom = ditemukan 54 data duplikat (metode = 'first')
-    - format tanggal = belum di cek, harus ubah dulu tipe data kolomnya
+        - (sudah diatasi) Kode Pos (yang ini belum, harus misahin dari ALAMAT DOMISILI)
+    - (sudah diatasi) struktur data:
+        - (sudah diatasi) USIA = float ganti int
+        - (sudah diatasi) TGL DITERIMA = object ganti ke date/sejenisnya
+    - (sudah diatasi) data duplikat, liat dari semua kolom = ditemukan 54 data duplikat (metode = 'first')
     - missing values:
         - NOPEN                         0      0.00%
         - JALUR                         0      0.00%
         - TAHUN                         0      0.00%
-        - PILIHAN PRODI 1              56      0.08%
-        - FAKULTAS PRODI 1             56      0.08%
-        - PILIHAN PRODI 2           20233     30.68%
-        - FAKULTAS PRODI 2          20233     30.68%
-        - DITERIMA PRODI             7537     11.43%
-        - FAKULTAS PRODI DITERMA     7537     11.43%
-        - USIA                      27684     41.97%
-        - ASAL SLTA                 33779     51.22%
-        - JURUSAN                   27897     42.30%
-        - ALAMAT ASAL               29174     44.23%
-        - ALAMAT DOMISILI           29172     44.23%
-        - PEND. AYAH                33854     51.33%
-        - PEND. IBU                 33854     51.33%
-        - PEKERJAAN IBU             33854     51.33%
+        - PILIHAN PRODI 1              56      0.08% (sudah diatasi)
+        - FAKULTAS PRODI 1             56      0.08% (sudah diatasi)
+        - PILIHAN PRODI 2           20233     30.68% (sudah diatasi)
+        - FAKULTAS PRODI 2          20233     30.68% (sudah diatasi)
+        - DITERIMA PRODI             7537     11.43% (sudah diatasi)
+        - FAKULTAS PRODI DITERMA     7537     11.43% (sudah diatasi)
+        - USIA                      27684     41.97% (sudah diatasi)
+        - ASAL SLTA                 33779     51.22% (sudah diatasi)
+        - JURUSAN                   27897     42.30% (sudah diatasi)
+        - ALAMAT ASAL               29174     44.23% (tidak perlu diatasi)
+        - ALAMAT DOMISILI           29172     44.23% (tidak perlu diatasi)
+        - PEND. AYAH                33854     51.33% (sudah diatasi)
+        - PEND. IBU                 33854     51.33% (sudah diatasi)
+        - PEKERJAAN IBU             33854     51.33% (sudah diatasi)
         - ALAMAT ORANG TUA          29673     44.99%
         - TGL DITERIMA                  0      0.00%
     - distribusi data:
         - JALUR = aman
         - TAHUN = aman
-        - PILIHAN PRODI 1 = ada 5 yang valuenya '-', lainnya aman
-        - FAKULTAS PRODI 1
-        - PILIHAN PRODI 2
-        - FAKULTAS PRODI 2
-        - DITERIMA PRODI
-        - FAKULTAS PRODI DITERMA
-        - USIA
-        - JURUSAN
-        - PEND. AYAH
-        - PEND. IBUPEKERJAAN IBU
+        - (sudah diatasi) PILIHAN PRODI 1 = ada 5 yang valuenya '-', lainnya aman
+        - (sudah di atasi) FAKULTAS PRODI 1 = ada 6 yang valuenya '-', lainnya aman
+        - (sudah diatasi) PILIHAN PRODI 2 = ada 547 yang valuenya '-', lainnya aman
+        - (sudah diatasi) FAKULTAS PRODI 2 = ada 549 yang valuenya '-', lainnya aman
+        - (sudah diatasi) DITERIMA PRODI = ada 11260 yang valuenya '-', lainnya aman
+        - (sudah diatasi) FAKULTAS PRODI DITERMA = ada 11260 yanng valuenya '-', lainnya aman
+        - (sudah diatasi) USIA = 32628 usia 0, 1 usia 12, 120 beberapa, 26 usia 121, lainnya aman (baru cek sekilas) = umur 25 ke atas jalur CBT dan nilai rapor di null kan
+        - JURUSAN = aman
+        - PEND. AYAH = aman
+        - PEND. IBU = aman
+        - PEKERJAAN IBU =   aman
 
 
+Hasil Validasi Ulang :
+- Struktur data = aman
+- Data duplikat = aman
+- Missing values = aman
+- Distribusi data : aman
+    - JALUR = (tidak dicek karna aman)
+    - TAHUN = (tidak dicek karna aman)
+    - PILIHAN PRODI 1 = aman
+    - FAKULTAS PRODI 1 = aman
+    - PILIHAN PRODI 2 = aman
+    - FAKULTAS PRODI 2 = aman
+    - DITERIMA PRODI = aman
+    - FAKULTAS PRODI DITERMA = aman
+    - USIA = aman
+    - JURUSAN = aman
+    - PEND. AYAH = aman
+    - PEND. IBU = aman
+    - PEKERJAAN IBU = aman
 
-JANGAN LUPA PISAHKAN POST CODE UNTUK MAPPING
+===============================================================================================
+
+Note : Ternyata gabisa pake kode pos indonesia, minimal kab/kota di tableau
+langkah tambahan :
+- Buat kolom baru:
+    - Kabupaten/kota
+    - Provinsi
+===============================================================================================
+
+Brainstorming Visualisasi
+1. Dashboard Overview (semua tahun)
+    - KPIs:
+        - (realisasi) Jumlah pendaftar (CNT NOPEN)
+        - (Realisasi) Jumlah jalur masuk (CTND)
+	- Jumlah prodi (CTND)
+	- Jumlah fakultas (CTND)
+    - (Realisasi) Tren Jumlah Pendaftar per Tahun (Line Chart, Melihat kenaikan/penurunan pendaftar tiap tahun)
+    - (realisasi) Jumlah Pendaftar per Jalur Masuk (Bar Chart, Jalur mana yang paling banyak diminati)
+    - (realisasi) Jumlah Pendaftar per Fakultas (Bar Chart/tabel/bar chart gabungan, Fakultas dengan peminat terbanyak)
+    - (Realisasi) Top 10 jumlah Pendaftar per Prodi (tabel, prodi favorit sepanjang tahun)
+    - filter tahun (checkbox)
+2. Dashboard Demografi Pendaftar
+    - KPIs:
+        - (Realisasi) Rata-rata usia pendaftar (AVG)
+        - (realisasi) jumlah pekerjaan ibu (CTND)
+	- (realisasi) Jumlah SLTA (CNTD)
+    - (realisasi) Distribusi pendidikan ortu (ayah, ibu) (barh/pie/bar gabungan)
+    - (Realisasi) Top 10 asal SLTA (tabel)
+    - Mapping domisili pendaftar (kalo bisa ini dimasukan, kalo ga bikin dashboard sendiri)
+    - (realisasi) Pekerjaan ibu (barh)
+    - Filter tahun (checkbox)
+
+===============================================================================================
+
+Brainstorming Landing Page
+
+Halaman Utama:
+- Overview Proyek:
+ - Tombol ke tiap dashboard di tableau public
+- Langkah-Langkah proyek
+- Permasalahan
+- Solusi dan tujuan
+- Brainstorming tiap dashboard
+
+Halaman dashboard overview:
+- Visualisasi
+- Cara membaca
+
+halaman dashboard demografi:
+- Visualisasi
+- Cara membaca
+
+==============================================================================================
