@@ -48,6 +48,7 @@ Version:	1.1
 /*=============================
 	Global CSS 
 ===============================*/
+
 body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
@@ -302,15 +303,44 @@ body{
 	width:100%;
 }
 .get-quote{
-	margin-top:12px;
+	display: flex;
+    gap: 10px; /* Jarak antar tombol, bisa diubah */
+    align-items: center;
 }
 .get-quote .btn{
 	color:#fff;
 }
 .header .logo {
 	float: left;
-	margin-top: 18px;
+	margin-top: 12px;
 }
+
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-flex .logo {
+    margin-top: 0;
+}
+
+.header-flex .get-quote {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+	padding: 10px;
+}
+
+
+/* Tambahkan aturan baru di bawahnya untuk mengatur ukuran gambar logo */
+.header .logo img {
+    max-height: 48px;  /* atau ukuran lain sesuai kebutuhan */
+    height: 48px;
+    width: auto;
+    display: block;
+}
+
 .header .navbar {
 	background: none;
 	box-shadow: none;
@@ -971,6 +1001,14 @@ body{
 	padding-bottom:20px;
 	margin-bottom:24px;
 }
+
+/* Jarak atas pada choose-left dan choose-right yang kedua */
+.why-choose .row:nth-of-type(3) .choose-left,
+.why-choose .row:nth-of-type(3) .choose-right {
+    margin-top: 48px; /* Atur sesuai kebutuhan, misal 32px atau 48px */
+}
+
+
 .why-choose .choose-left h3:before{
 	position:absolute;
 	content:"";
@@ -1007,10 +1045,11 @@ body{
 .why-choose{
 	background:#fff;
 }
+
 .why-choose .choose-right{
 	height:100%;
-	width:100%;
-	background-image:url('img/video-bg.jpg');
+	width: auto;
+	max-width: 100%;
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
