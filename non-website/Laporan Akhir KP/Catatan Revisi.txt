@@ -1,0 +1,41 @@
+================================
+	CATATAN REVISI
+================================
+
+===========================================
+List Revisi Original diterapkan ke Revisi-1
+------------------------------
+- Halaman 13 belum rata kanan kiri = 2
+- Halaman 31 ada kata yg tertukar (bagian dashboard demografi) = 3
+- Halaman 32 paragrafnya kepisah sama judul (nanti aja siapa tau gajadi)
+- Tambahkan penjelasan hasil visualisasi = 20
+- Benerkan urutan bullet point sesuai aturan = 1
+- Lembar persetujuan harusnya ttd di tengah bukan pinggir = 4
+- font di daftar isi dan daftar gambar harusnya times new roman = 5
+- Bagian abstrak (halaman VIII): = 8
+  - Spasi harusnya 1
+  - Urutannya: latar belakang masalah, metode, hasil
+  - kata kunci ganti jadi: Dashboard, Visualisasi, Tableau Public, Mahasiswa Baru
+- Di judul bab gausah pake . (titik) = 6
+- di bagian deskripsi proyek tambahkan minimal 2 artikel terkait visualisasi data/tableau (gatau harus diapain)
+- Tulisan "Batasa Proyek" di Batasan masalah harus lebih Panjang. contoh: proyek ini memiliki Batasan bla bla bla... = 7
+- Setiap gambar harus di notice dengan keterangan, contoh: "seperti pada gambar 2.1" = 11
+- Bagian tahapan pelaksanaan agak dijelasin secara umum, jangan terlalu rinci (gaboleh cuma flowchart) = 9
+- Bagian Bagian Jadwal pelaksanaan agak dijelasin, jangan cuma table jadwal = 10
+- font setiap sitasi di laporan harus times new roman (gaboleh beda) = 11
+- gaboleh ada space kosong di setiap lembar kertas (kalo kosong silahkan tambahkan penjelasan/perbesar kecilkan gambar)
+- Perbesar gambar: = 12
+  - 3.5
+  - 3.6
+  - 3.7
+  - dll yg punya size hamper sama (ga bisa kebaca di hard file)
+- Tambahkan penjelasan per tiap distribusi data bagian validasi data (mungkin lebih baik bikin bullet point untuk setiap distribusi biar enak penjelasannya) = 14
+- Tambahkan penjelasan per tiap distribusi data bagian Problem Solving (mungkin lebih baik bikin bullet point untuk setiap distribusi biar enak penjelasannya) = 15
+- Perbesar gambar dashboard (demografi maupun overview) = 13
+- Perbanyak penjelasan di tiap bagian pada realisasi landing page = 16
+- Perbanyak penjelasan di tiap bagian cara membaca pada realisasi landing page = 17
+- Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18
+- tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19
+- hapus filter prodi di tableau (biar bisa liat semuanya, ga perlu ganti gambar di laporan karna ga keliatan) = 21x
+- 
+===========================================
