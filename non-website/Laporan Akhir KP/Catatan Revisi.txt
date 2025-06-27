@@ -5,20 +5,20 @@
 ===========================================
 List Revisi Original diterapkan ke Revisi-1
 ------------------------------
-- Halaman 13 belum rata kanan kiri = 2
-- Halaman 31 ada kata yg tertukar (bagian dashboard demografi) = 3
+- Halaman 13 belum rata kanan kiri = 2 DONE
+- Halaman 31 ada kata yg tertukar (bagian dashboard demografi) = 3 DONE
 - Halaman 32 paragrafnya kepisah sama judul (nanti aja siapa tau gajadi)
 - Tambahkan penjelasan hasil visualisasi = 20
 - Benerkan urutan bullet point sesuai aturan = 1
-- Lembar persetujuan harusnya ttd di tengah bukan pinggir = 4
-- font di daftar isi dan daftar gambar harusnya times new roman = 5
-- Bagian abstrak (halaman VIII): = 8
-  - Spasi harusnya 1
-  - Urutannya: latar belakang masalah, metode, hasil
-  - kata kunci ganti jadi: Dashboard, Visualisasi, Tableau Public, Mahasiswa Baru
-- Di judul bab gausah pake . (titik) = 6
+- Lembar persetujuan harusnya ttd di tengah bukan pinggir = 4 DONE
+- font di daftar isi dan daftar gambar harusnya times new roman = 5 DONE
+- Bagian abstrak (halaman VIII): = 8 DONE
+  - Spasi harusnya 1 DONE
+  - Urutannya: latar belakang masalah, metode, hasil DONE
+  - kata kunci ganti jadi: Dashboard, Visualisasi, Tableau Public, Mahasiswa Baru DONE
+- Di judul bab gausah pake . (titik) = 6 DONE
 - di bagian deskripsi proyek tambahkan minimal 2 artikel terkait visualisasi data/tableau (gatau harus diapain)
-- Tulisan "Batasa Proyek" di Batasan masalah harus lebih Panjang. contoh: proyek ini memiliki Batasan bla bla bla... = 7
+- Tulisan "Batasa Proyek" di Batasan masalah harus lebih Panjang. contoh: proyek ini memiliki Batasan bla bla bla... = 7 DONE
 - Setiap gambar harus di notice dengan keterangan, contoh: "seperti pada gambar 2.1" = 11
 - Bagian tahapan pelaksanaan agak dijelasin secara umum, jangan terlalu rinci (gaboleh cuma flowchart) = 9
 - Bagian Bagian Jadwal pelaksanaan agak dijelasin, jangan cuma table jadwal = 10
