@@ -9,7 +9,7 @@ List Revisi Original diterapkan ke Revisi-1
 - Halaman 31 ada kata yg tertukar (bagian dashboard demografi) = 3 DONE
 - Halaman 32 paragrafnya kepisah sama judul (nanti aja siapa tau gajadi)
 - Tambahkan penjelasan hasil visualisasi = 20
-- Benerkan urutan bullet point sesuai aturan = 1
+- Benerkan urutan bullet point sesuai aturan = 1 DONE
 - Lembar persetujuan harusnya ttd di tengah bukan pinggir = 4 DONE
 - font di daftar isi dan daftar gambar harusnya times new roman = 5 DONE
 - Bagian abstrak (halaman VIII): = 8 DONE
@@ -20,11 +20,11 @@ List Revisi Original diterapkan ke Revisi-1
 - di bagian deskripsi proyek tambahkan minimal 2 artikel terkait visualisasi data/tableau (gatau harus diapain)
 - Tulisan "Batasa Proyek" di Batasan masalah harus lebih Panjang. contoh: proyek ini memiliki Batasan bla bla bla... = 7 DONE
 - Setiap gambar harus di notice dengan keterangan, contoh: "seperti pada gambar 2.1" = 11
-- Bagian tahapan pelaksanaan agak dijelasin secara umum, jangan terlalu rinci (gaboleh cuma flowchart) = 9
-- Bagian Bagian Jadwal pelaksanaan agak dijelasin, jangan cuma table jadwal = 10
-- font setiap sitasi di laporan harus times new roman (gaboleh beda) = 11
-- gaboleh ada space kosong di setiap lembar kertas (kalo kosong silahkan tambahkan penjelasan/perbesar kecilkan gambar)
-- Perbesar gambar: = 12
+- Bagian tahapan pelaksanaan agak dijelasin secara umum, jangan terlalu rinci (gaboleh cuma flowchart) = 9 DONE
+- Bagian Bagian Jadwal pelaksanaan agak dijelasin, jangan cuma table jadwal = 10 DONE
+- font setiap sitasi di laporan harus times new roman (gaboleh beda) = 11 DONE
+- gaboleh ada space kosong di setiap lembar kertas (kalo kosong silahkan tambahkan penjelasan/perbesar kecilkan gambar) PALING AKHIRRR
+- Perbesar gambar: = 12 DONE
   - 3.5
   - 3.6
   - 3.7
