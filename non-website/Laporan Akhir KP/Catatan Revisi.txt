@@ -31,8 +31,8 @@ List Revisi Original diterapkan ke Revisi-1
   - dll yg punya size hamper sama (ga bisa kebaca di hard file)
 - Tambahkan penjelasan per tiap distribusi data bagian validasi data (mungkin lebih baik bikin bullet point untuk setiap distribusi biar enak penjelasannya) = 14
 - Tambahkan penjelasan per tiap distribusi data bagian Problem Solving (mungkin lebih baik bikin bullet point untuk setiap distribusi biar enak penjelasannya) = 15
-- Perbesar gambar dashboard (demografi maupun overview) = 13
-- Perbanyak penjelasan di tiap bagian pada realisasi landing page = 16
+- Perbesar gambar dashboard (demografi maupun overview) = 13 DONE
+- Perbanyak penjelasan di tiap bagian pada realisasi landing page = 16 DONE TAPI (NEXT AGAK DIPERBESAR, SOALNYA GA KELIATAN)
 - Perbanyak penjelasan di tiap bagian cara membaca pada realisasi landing page = 17
 - Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18
 - tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19
