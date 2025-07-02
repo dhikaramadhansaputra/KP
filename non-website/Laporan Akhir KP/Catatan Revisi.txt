@@ -34,7 +34,7 @@ List Revisi Original diterapkan ke Revisi-1
 - Perbesar gambar dashboard (demografi maupun overview) = 13 DONE
 - Perbanyak penjelasan di tiap bagian pada realisasi landing page = 16 DONE
 - Perbanyak penjelasan di tiap bagian cara membaca pada realisasi landing page = 17 DONE
-- Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18
+- Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18 DONE
 - tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19
 - hapus filter prodi di tableau (biar bisa liat semuanya, ga perlu ganti gambar di laporan karna ga keliatan) = 21x
 - 
