@@ -17,7 +17,7 @@ List Revisi Original diterapkan ke Revisi-1
   - Urutannya: latar belakang masalah, metode, hasil DONE
   - kata kunci ganti jadi: Dashboard, Visualisasi, Tableau Public, Mahasiswa Baru DONE
 - Di judul bab gausah pake . (titik) = 6 DONE
-- di bagian deskripsi proyek tambahkan minimal 2 artikel terkait visualisasi data/tableau (gatau harus diapain)
+- di bagian deskripsi proyek tambahkan minimal 2 artikel terkait visualisasi data/tableau (gatau harus diapain) = 21
 - Tulisan "Batasa Proyek" di Batasan masalah harus lebih Panjang. contoh: proyek ini memiliki Batasan bla bla bla... = 7 DONE
 - Setiap gambar harus di notice dengan keterangan, contoh: "seperti pada gambar 2.1" = 11
 - Bagian tahapan pelaksanaan agak dijelasin secara umum, jangan terlalu rinci (gaboleh cuma flowchart) = 9 DONE
@@ -35,7 +35,6 @@ List Revisi Original diterapkan ke Revisi-1
 - Perbanyak penjelasan di tiap bagian pada realisasi landing page = 16 DONE
 - Perbanyak penjelasan di tiap bagian cara membaca pada realisasi landing page = 17 DONE
 - Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18 DONE
-- tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19
-- hapus filter prodi di tableau (biar bisa liat semuanya, ga perlu ganti gambar di laporan karna ga keliatan) = 21x
-- 
+- tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19 DONE
+- perbaiki daftar gambar (ada tambahan gambar jadi harus dibikin ulang)
 ===========================================
