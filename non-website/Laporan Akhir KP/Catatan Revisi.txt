@@ -36,5 +36,6 @@ List Revisi Original diterapkan ke Revisi-1
 - Perbanyak penjelasan di tiap bagian cara membaca pada realisasi landing page = 17 DONE
 - Tambahkan cara membaca dashboard (belum tau tempatnya, piker nanti) = 18 DONE
 - tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19 DONE
-- perbaiki daftar gambar (ada tambahan gambar jadi harus dibikin ulang) = 22
+- perbaiki daftar gambar (ada tambahan gambar jadi harus dibikin ulang) = 22 DONE
+- Tambahkan penjelasan tentang cara penggunaan (harus di kombinasikan dengan data lain + kasih contoh) = 24 DONE
 ===========================================
