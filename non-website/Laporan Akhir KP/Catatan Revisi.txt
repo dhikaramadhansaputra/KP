@@ -38,4 +38,5 @@ List Revisi Original diterapkan ke Revisi-1
 - tambahkan demo cara membaca visualisasi, contoh: melihat Teknik informatika thn 2024 (belum tau tempatnya) = 19 DONE
 - perbaiki daftar gambar (ada tambahan gambar jadi harus dibikin ulang) = 22 DONE
 - Tambahkan penjelasan tentang cara penggunaan (harus di kombinasikan dengan data lain + kasih contoh) = 24 DONE
+- Tambahkan 2 jurnal terkait visualisasi data atau tableau di bagian gambaran umum proyek = 25 DONE
 ===========================================
