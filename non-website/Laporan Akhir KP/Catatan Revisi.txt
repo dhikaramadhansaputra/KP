@@ -40,3 +40,15 @@ List Revisi Original diterapkan ke Revisi-1
 - Tambahkan penjelasan tentang cara penggunaan (harus di kombinasikan dengan data lain + kasih contoh) = 24 DONE
 - Tambahkan 2 jurnal terkait visualisasi data atau tableau di bagian gambaran umum proyek = 25 DONE
 ===========================================
+
+
+==================================================
+Revisi 2 (acc)
+---------------------------------------------------
+- Halaman 7 bagian jadwal pelaksanaan perbaikan kalimat (cek hard file)
+- Halaman 9 bagian profil instansi mitra perbaikan kalimat (cek hard file)
+- semua gambar harus di notice (pakai "pada gambar 3.10" misalnya, dan huruf G nya harus kapital)
+- semua huruf harus times new roman (font, sitasi, nomor halaman, pokoknya semua) = paling akhir
+- halaman 19 bagian distribusi data tidak boleh "gambar ... sampai ..., harus satu satu kalo ga cari solusinya sendiri"
+- Banyak notice-an gambar yang blm dibenerin di bagian bagian akhir, cek semua aja lewat daftar gambar
+===================================================
