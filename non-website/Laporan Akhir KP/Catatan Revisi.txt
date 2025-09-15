@@ -45,10 +45,11 @@ List Revisi Original diterapkan ke Revisi-1
 ==================================================
 Revisi 2 (acc)
 ---------------------------------------------------
-- Halaman 7 bagian jadwal pelaksanaan perbaikan kalimat (cek hard file)
-- Halaman 9 bagian profil instansi mitra perbaikan kalimat (cek hard file)
-- semua gambar harus di notice (pakai "pada gambar 3.10" misalnya, dan huruf G nya harus kapital)
-- semua huruf harus times new roman (font, sitasi, nomor halaman, pokoknya semua) = paling akhir
-- halaman 19 bagian distribusi data tidak boleh "gambar ... sampai ..., harus satu satu kalo ga cari solusinya sendiri"
-- Banyak notice-an gambar yang blm dibenerin di bagian bagian akhir, cek semua aja lewat daftar gambar
+- (DONE) Halaman 7 bagian jadwal pelaksanaan perbaikan kalimat (cek hard file)
+- (DONE) Halaman 9 bagian profil instansi mitra perbaikan kalimat (cek hard file)
+- (DONE) semua gambar harus di notice (pakai "pada gambar 3.10" misalnya, dan huruf G nya harus kapital (pake fitur find n replace mungkin biar kena semua??))
+- (DONE) semua huruf harus times new roman (font, sitasi, nomor halaman, pokoknya semua) = paling akhir
+- (DONE, dihapus) halaman 19 bagian distribusi data tidak boleh "gambar ... sampai ..., harus satu satu kalo ga cari solusinya sendiri"
+- (DONE) Banyak notice-an gambar yang blm dibenerin di bagian bagian akhir, cek semua aja lewat daftar gambar
+- (DONE) dapus rata kanan kiri
 ===================================================
