@@ -1,0 +1,20 @@
+Struktur PPT Seminar Laporan Akhir KP:
+- Pembukaan (judul, identitas aku, nama pembimbing dan penguji)
+- Gambaran umum proyek (pake abstrak mungkin bisa?)
+- Instansi mitra (gausah pake struktur organisasi, karna itu bagannya ngasal)
+- Hasil tahapan pelaksanaan:
+  - Pengumpulan data
+  - Preprocessing:
+	- Penggabungan dataset
+	- Pemilihan kolom
+	- Validasi data
+	- Problem solving
+  - Representasi:
+	- Brainstorming
+	- Visualisasi
+  - Pembuatan landing page
+	- Brainstorming
+	- Realisasi
+- Demo dashboard (sertakan link landing page di PPT)
+
+** Pengingat: Kalo bisa semua slide dikasih lambing UMP
