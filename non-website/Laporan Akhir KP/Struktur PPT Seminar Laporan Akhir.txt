@@ -1,7 +1,17 @@
+Link Canva/PPT presentasi laporan akhir KP:
+https://www.canva.com/design/DAGztQrbxOU/6F7gvkTH1n77YHxP65_7fw/edit?utm_content=DAGztQrbxOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Struktur PPT Seminar Laporan Akhir KP:
-- Pembukaan (judul, identitas aku, nama pembimbing dan penguji)
-- Gambaran umum proyek (pake abstrak mungkin bisa?)
-- Instansi mitra (gausah pake struktur organisasi, karna itu bagannya ngasal)
+- (DONE) Pembukaan (judul, identitas aku, nama pembimbing dan penguji)
+- (DONE) Struktur Presentasi
+- (DONE) Gambaran umum proyek (pake abstrak mungkin bisa? BISAA):
+	- Tujuan
+	- latar belakang masalah
+	- metode pengerjaan proyek
+	- terkait data mentah
+	- data pipeline
+	- Hasil proyek (dashboard yang bisa di akses lewat web)
+- (DONE) Instansi mitra (gausah pake struktur organisasi, karna itu bagannya ngasal)
 - Hasil tahapan pelaksanaan:
   - Pengumpulan data
   - Preprocessing:
