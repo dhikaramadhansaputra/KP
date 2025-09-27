@@ -12,13 +12,14 @@ Struktur PPT Seminar Laporan Akhir KP:
 	- data pipeline
 	- Hasil proyek (dashboard yang bisa di akses lewat web)
 - (DONE) Instansi mitra (gausah pake struktur organisasi, karna itu bagannya ngasal)
+- (DONE) Tahapan pelaksanaan:
 - Hasil tahapan pelaksanaan:
-  - Pengumpulan data
+  - (DONE) Pengumpulan data
   - Preprocessing:
-	- Penggabungan dataset
-	- Pemilihan kolom
-	- Validasi data
-	- Problem solving
+	- (DONE) Penggabungan dataset
+	- (DONE) Pemilihan kolom
+	- (DONE) Validasi data
+	- () Problem solving
   - Representasi:
 	- Brainstorming
 	- Visualisasi
