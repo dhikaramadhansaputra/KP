@@ -19,9 +19,9 @@ Struktur PPT Seminar Laporan Akhir KP:
 	- (DONE) Penggabungan dataset
 	- (DONE) Pemilihan kolom
 	- (DONE) Validasi data
-	- () Problem solving
+	- (DONE) Problem solving
   - Representasi:
-	- Brainstorming
+	- (DONE) Brainstorming
 	- Visualisasi
   - Pembuatan landing page
 	- Brainstorming
